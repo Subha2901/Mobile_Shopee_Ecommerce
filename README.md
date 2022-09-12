@@ -14,7 +14,8 @@ This video is the demo of the responsiveness of the website on any size of the s
 
 
 
-https://user-images.githubusercontent.com/109919695/189742401-36ad53fe-8690-48a1-9b93-f367336884f4.mp4
+https://user-images.githubusercontent.com/109919695/189763393-744d9aa3-e4b7-4b14-ab10-07c328b72056.mp4
+
 
 
 
